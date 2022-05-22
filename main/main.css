@@ -9,7 +9,7 @@
 
 .banner {
     min-height: 100vh;
-    background: #120e0f url(/main/img/bg.jpg);
+    background: #120e0f url(./img/bg.jpg);
     background-position: center;
     background-size: cover;
     padding: 40px 100px;

@@ -78,7 +78,7 @@ header {
     left: 0;
     width: 100%;
     height: 100vh;
-    background: #120e0f url(/main/img/menuBg.jpg);
+    background: #120e0f url(./img/menuBg.jpg);
     background-position: right;
     background-size: cover;
     display: none;
